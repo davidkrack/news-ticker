@@ -1,10 +1,10 @@
 {
-  "name": "nice-react-ticker",
+  "name": "news-ticker",
   "version": "2.1.0",
   "description": "Nicest react ticker in town",
-  "author": "jeremyrajan",
+  "author": "davidkrack",
   "license": "MIT",
-  "repository": "jeremyrajan/nice-react-ticker",
+  "repository": "davidkrack/news-ticker",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
   "jsnext:main": "dist/index.es.js",
